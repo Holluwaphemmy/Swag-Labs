@@ -1,0 +1,4 @@
+node_modules
+mochawesome-reporter
+downloads
+package-lock.json
